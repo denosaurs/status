@@ -5,7 +5,7 @@
 [![Deno Version](https://img.shields.io/badge/deno-1.0.0-informational)](https://deno.land)
 [![Deno Doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/status/mod.ts)
 
-HTTP status utility for Deno. Based on [Java Apache HttpStatus](http://hc.apache.org/httpclient-3.x/apidocs/org/apache/commons/httpclient/HttpStatus.html)
+HTTP codes and status utility for Deno. Based on [Java Apache HttpStatus](http://hc.apache.org/httpclient-3.x/apidocs/org/apache/commons/httpclient/HttpStatus.html)
 
 ## API
 
