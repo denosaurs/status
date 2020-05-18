@@ -1,6 +1,6 @@
 # status
 
-[![Open Issues](https://img.shields.io/github/issues/denosaurs/status)](https://github.com/denosaurs/denom/status)
+[![Open Issues](https://img.shields.io/github/issues/denosaurs/status)](https://github.com/denosaurs/status)
 [![GitHub license](https://img.shields.io/github/license/denosaurs/status)](https://github.com/denosaurs/denom/blob/master/LICENSE)
 [![Deno Version](https://img.shields.io/badge/deno-1.0.0-informational)](https://deno.land)
 [![Deno Doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/status/mod.ts)
