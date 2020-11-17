@@ -46,7 +46,7 @@ Map of all the available codes. `message (string) -> code (number)`
 import { status } from "https://deno.land/x/status/mod.ts";
 
 status.code; // => { "ACCEPTED": 202, "BAD_GATEWAY": 502, "BAD_REQUEST": 400, ... }
-satuus.code["FORBIDDEN"] = 403;
+status.code["FORBIDDEN"] = 403;
 ```
 
 ### status.message[msg]
