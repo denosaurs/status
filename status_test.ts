@@ -2,7 +2,7 @@
 
 import {
   assert,
-  assertStrictEq,
+  assertStrictEquals as assertStrictEq,
   assertThrows,
 } from "https://deno.land/std/testing/asserts.ts";
 
