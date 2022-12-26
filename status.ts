@@ -64,13 +64,13 @@ status.retry = {
 
 /**
  * Get the status code. But pretty printed.
- * 
+ *
  * Given a number, this will throw if it is not a known status
  * code, otherwise the code will be returned. Given a string,
  * the string will be parsed for a number and return the code
  * if valid, otherwise will lookup the code assuming this is
  * the status message.
- * 
+ *
  * Status codes remain the same as status(arg)
  * Status messages are pretty printed:
  * 'INTERNAL_SERVER_ERROR' -> 'Internal Server Error'
