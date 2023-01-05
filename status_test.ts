@@ -6,10 +6,7 @@ import {
   assertThrows,
 } from "https://deno.land/std/testing/asserts.ts";
 
-import {
-  status,
-  MOVED_PERMANENTLY,
-} from "./mod.ts";
+import { MOVED_PERMANENTLY, status } from "./mod.ts";
 
 Deno.test({
   name: "status:arguments:number",
